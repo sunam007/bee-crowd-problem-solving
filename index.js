@@ -10,7 +10,6 @@ const _arr = [
   20,
   "10",
   "20",
-
   NaN,
   undefined,
   null,
